@@ -4,7 +4,7 @@ from pygame import *
 pygame.init()
 
 screen=pygame.display.set_mode((640,480),0,32)
-pygame.display.set_caption("Pong!")
+pygame.display.set_caption("Pong Game!")
 
 ## create bars
 bar=pygame.Surface((12,70))
